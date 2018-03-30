@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires pour Stoof Cooking</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Cuisine et plaisirs coupables</description>
+	<lastBuildDate>Fri, 22 Jul 2016 12:10:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Commentaires sur Éclosion ! par Stoof</title>
+		<link>./../../bonjour-tout-le-monde/index.html#comment-3</link>
+		<dc:creator><![CDATA[Stoof]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 12:10:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-3</guid>
+		<description><![CDATA[Ou bien le faire tomber amoureux ;)]]></description>
+		<content:encoded><![CDATA[<p>Ou bien le faire tomber amoureux 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Commentaires sur Éclosion ! par Aurélien</title>
+		<link>./../../bonjour-tout-le-monde/index.html#comment-2</link>
+		<dc:creator><![CDATA[Aurélien]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 12:09:27 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-2</guid>
+		<description><![CDATA[Et cuisiner pour quelqu&#039;un c&#039;est comme lui dire &quot;Je t&#039;aime&quot;...]]></description>
+		<content:encoded><![CDATA[<p>Et cuisiner pour quelqu&rsquo;un c&rsquo;est comme lui dire &laquo;&nbsp;Je t&rsquo;aime&nbsp;&raquo;&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

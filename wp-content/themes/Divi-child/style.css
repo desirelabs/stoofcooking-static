@@ -1,0 +1,114 @@
+/*
+Theme Name: My Divi Child Theme
+Theme URI: http://mydomain.com/
+Version: 1.0
+Description: A customized version of Divi which adds a number of tiny features I need.
+Author: Your Name
+Author URI: http://www.yourwebsite.com
+Template: Divi
+*/
+
+.et_color_scheme_green .et_pb_counter_amount,
+.et_color_scheme_green .et_pb_featugreen_table .et_pb_pricing_heading,
+.et_color_scheme_green #top-header {
+	background: #2be5c9 !important;
+}
+
+.et_color_scheme_greena.button.alt,
+.et_color_scheme_green.woocommerce-page a.button.alt,
+.et_color_scheme_greenbutton.button.alt,
+.et_color_scheme_green.woocommerce-page button.button.alt,
+.et_color_scheme_greeninput.button.alt,
+.et_color_scheme_green.woocommerce-page input.button.alt,
+.et_color_scheme_green#respond input#submit.alt,
+.et_color_scheme_green.woocommerce-page #respond input#submit.alt,
+.et_color_scheme_green#content input.button.alt,
+.et_color_scheme_green.woocommerce-page #content input.button.alt,
+.et_color_scheme_greena.button,
+.et_color_scheme_green.woocommerce-page a.button,
+.et_color_scheme_greenbutton.button,
+.et_color_scheme_green.woocommerce-page button.button,
+.et_color_scheme_greeninput.button,
+.et_color_scheme_green.woocommerce-page input.button,
+.et_color_scheme_green#respond input#submit,
+.et_color_scheme_green.woocommerce-page #respond input#submit,
+.et_color_scheme_green#content input.button,
+.et_color_scheme_green.woocommerce-page #content input.button,
+.et_color_scheme_green .woocommerce-message,
+.et_color_scheme_green .woocommerce-error,
+.et_color_scheme_green .woocommerce-info {
+	background: #2be5c9 !important;
+	border: none !important;
+	color: #fff !important;
+}
+
+.et_color_scheme_green #et_search_icon:hover,
+.et_color_scheme_green .mobile_menu_bar:before,
+.et_color_scheme_green .footer-widget h4,
+.et_color_scheme_green .et_pb_sum,
+.et_color_scheme_green .et_pb_pricing li a,
+.et_color_scheme_green .et_pb_pricing_table_button,
+.et_color_scheme_green .comment-reply-link,
+.et_color_scheme_green .form-submit input,
+.et_color_scheme_green .et_pb_bg_layout_light .et_pb_newsletter_button,
+.et_color_scheme_green .et_pb_contact_submit,
+.et_color_scheme_green .et_password_protected_form .et_submit_button,
+.et_color_scheme_green .et_pb_bg_layout_light .et_pb_more_button,
+.et_color_scheme_green .et_pb_bg_layout_light .et_pb_promo_button,
+.et_color_scheme_green .et_overlay:before,
+.et_color_scheme_green .entry-summary p.price ins,
+.et_color_scheme_greendiv.product span.price,
+.et_color_scheme_green.woocommerce-page div.product span.price,
+.et_color_scheme_green#content div.product span.price,
+.et_color_scheme_green.woocommerce-page #content div.product span.price,
+.et_color_scheme_greendiv.product p.price,
+.et_color_scheme_green.woocommerce-page div.product p.price,
+.et_color_scheme_green#content div.product p.price,
+.et_color_scheme_green.woocommerce-page #content div.product p.price,
+.et_color_scheme_green #top-menu li.current-menu-ancestor > a,
+.et_color_scheme_green #top-menu li.current-menu-item > a,
+.et_color_scheme_green .bottom-nav li.current-menu-item > a {
+	color: #2be5c9 !important;
+}
+
+.et_color_scheme_green .star-rating span:before,
+.et_color_scheme_green .woocommerce-page .star-rating span:before {
+	color: #2be5c9 !important;
+}
+
+.et_color_scheme_green .et-search-form,
+.et_color_scheme_green .nav li ul,
+.et_color_scheme_green .et_mobile_menu,
+.et_color_scheme_green .footer-widget li:before,
+.et_color_scheme_green .et_pb_pricing li:before {
+	border-color: #2be5c9 !important;
+}
+
+body.et_pb_button_helper_class .et_pb_button,
+.woocommerce.et_pb_button_helper_class a.button.alt,
+.woocommerce-page.et_pb_button_helper_class a.button.alt,
+.woocommerce.et_pb_button_helper_class button.button.alt,
+.woocommerce-page.et_pb_button_helper_class button.button.alt,
+.woocommerce.et_pb_button_helper_class input.button.alt,
+.woocommerce-page.et_pb_button_helper_class input.button.alt,
+.woocommerce.et_pb_button_helper_class #respond input#submit.alt,
+.woocommerce-page.et_pb_button_helper_class #respond input#submit.alt,
+.woocommerce.et_pb_button_helper_class #content input.button.alt,
+.woocommerce-page.et_pb_button_helper_class #content input.button.alt,
+.woocommerce.et_pb_button_helper_class a.button,
+.woocommerce-page.et_pb_button_helper_class a.button,
+.woocommerce.et_pb_button_helper_class button.button,
+.woocommerce-page.et_pb_button_helper_class button.button,
+.woocommerce.et_pb_button_helper_class input.button,
+.woocommerce-page.et_pb_button_helper_class input.button,
+.woocommerce.et_pb_button_helper_class #respond input#submit,
+.woocommerce-page.et_pb_button_helper_class #respond input#submit,
+.woocommerce.et_pb_button_helper_class #content input.button,
+.woocommerce-page.et_pb_button_helper_class #content input.button {
+	color: #fff !important;
+}
+
+/** Single post **/
+.single .et_post_meta_wrapper {
+	display: none;
+}
